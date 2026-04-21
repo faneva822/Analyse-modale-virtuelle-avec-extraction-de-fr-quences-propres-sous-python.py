@@ -1,10 +1,10 @@
-# Analyse Module d'une Poutre
+ Analyse Module d'une Poutre
 
-## 📋 Description
+Description
 
 Ce programme réalise une **analyse modale par éléments finis** d'une poutre soumise à différentes conditions d'appui. Il calcule les fréquences propres, les modes de vibration et génère une Fonction de Réponse en Fréquence (FRF).
 
-## 🎯 Fonctionnalités
+ Fonctionnalités
 
 - **Saisie interactive** des paramètres physiques et géométriques
 - **8 types de profilés** disponibles
@@ -12,10 +12,11 @@ Ce programme réalise une **analyse modale par éléments finis** d'une poutre s
 - **Calculs** des fréquences propres et déformées modales
 - **Visualisations** complètes des résultats
 
-## 📦 Prérequis
+Prérequis
 
 ```bash
 pip install numpy matplotlib scipy
+
 Exemple de session
 === ANALYSE MODALE POUTRE ===
 Longueur (m) : 5
@@ -47,6 +48,7 @@ Fréquence propre 2 = 49.38 Hz
 Fréquence propre 3 = 111.11 Hz
 Surface = 0.00384 m²
 Inertie = 1.94e-06 m⁴
+
 VISUALISATION DES RÉSULTATS
 Deux graphiques s'affichent simultanément :
 Graphique 1 : FRF (Fonction de Réponse en Fréquence)
