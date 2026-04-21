@@ -59,5 +59,5 @@ Graphique 1 : FRF (Fonction de Réponse en Fréquence)
 Graphique 2 : Premier Mode Propre
 •	Courbe bleue : déformée modale normalisée
 •	Ligne horizontale : position de référence
-•	Triangles rouges : positions des appuis
+•	Triangles rouges : positions des appuis 
 
